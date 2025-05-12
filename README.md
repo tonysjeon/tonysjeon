@@ -13,8 +13,7 @@
 
 ⚽ I’ve played soccer for over a decade and currently captain the UCLA Korean team  
 🎾 I’m passionate about tennis, both as a player and as a data analyst for Division I matches  
-🎧 Music is a huge part of my life—whether I’m walking to class or deep in focus, there’s always something playing  
-🍝 I love cooking and experimenting in the kitchen, especially with Italian and Korean dishes
+🎧 Music is a huge part of my life—whether I’m walking to class or deep in focus, there’s always something playing
 
 ---
 
