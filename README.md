@@ -1,7 +1,7 @@
 # Hey there! I'm Tony Jeon 👋
 
 🎓 I'm currently pursuing a Bachelor of Science in Computer Science at UCLA.  
-💻 I serve as the Data Analytics Lead and Full-Stack Developer for UCLA Tennis Consulting, where I build tools used by 95+ players and coaches—from interactive match dashboards to automated video analysis using computer vision.  
+💻 I serve as the Data Analytics Lead and Full-Stack Developer for UCLA Tennis Consulting, where I build tools used by 95+ players and coaches, from interactive match dashboards to automated video analysis using computer vision.  
 🌐 I've also worked on e-commerce and AI startups, combining my frontend and backend development experience with tools like React, Next.js, Firebase, MongoDB, and Go.
 
 📚 My academic journey at UCLA has focused on topics like **Data Structures & Algorithms**, **Operating Systems**, and **Machine Learning**, with practical applications in **sports analytics** and **AI model deployment**.  
