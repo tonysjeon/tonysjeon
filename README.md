@@ -1,23 +1,61 @@
-# Hey there! I'm Tony Jeon 👋
+<h1 align="center">Hi 👋, I'm Tony Jeon</h1>
 
-🎓 I'm currently pursuing a Bachelor of Science in Computer Science at UCLA.  
-💻 I serve as the Data Analytics Lead and Full-Stack Developer for UCLA Tennis Consulting, where I build tools used by 95+ players and coaches, from interactive match dashboards to automated video analysis using computer vision.  
-🌐 I've also worked on e-commerce and AI startups, combining my frontend and backend development experience with tools like React, Next.js, Firebase, MongoDB, and Go.
+<p align="center">
+I’m passionate about full-stack development and building web apps. With a sharp eye for design and a love for clean, efficient code, I specialize in creating seamless web applications and interactive interfaces. I thrive on turning ideas into reality by combining creativity with technical expertise. Whether I'm building responsive websites, optimizing performance, or exploring the latest tech stacks, I'm committed to delivering high-quality solutions that exceed expectations. <br><br>
+  Feel free to explore my repositories to see some of my projects and don’t hesitate to reach out if you’re interested in collaborating or have any questions!
+</p>
 
-📚 My academic journey at UCLA has focused on topics like **Data Structures & Algorithms**, **Operating Systems**, and **Machine Learning**, with practical applications in **sports analytics** and **AI model deployment**.  
-🧠 I'm passionate about applying computer science to real-world problems and driving innovation — whether it's optimizing athletic performance or creating new AI-powered tools that make people’s lives easier.
+- 📫 Reach me at **tonysjeon@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tony-jeon-80a390274/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tony Jeon LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-## Beyond Code
-
-⚽ I’ve played soccer for over a decade and currently captain the UCLA Korean team  
-🎾 I’m passionate about tennis, both as a player and as a data analyst for Division I matches  
-🎧 Music is a huge part of my life—whether I’m walking to class or deep in focus, there’s always something playing
-
----
-
-## Reach Out!
-
-📬 Feel free to drop me an email at **tonysjeon@gmail.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tony-jeon-80a390274/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+</p>
