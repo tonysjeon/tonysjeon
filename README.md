@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony Jeon</h1>
+<h1 align="center">Hi, I'm Tony Jeon</h1>
 
 <p align="center">
 I’m passionate about full-stack development and building web apps. With a sharp eye for design and a love for clean, efficient code, I specialize in creating seamless web applications and interactive interfaces. I thrive on turning ideas into reality by combining creativity with technical expertise. Whether I'm building responsive websites, optimizing performance, or exploring the latest tech stacks, I'm committed to delivering high-quality solutions that exceed expectations. <br><br>
