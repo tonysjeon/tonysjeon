@@ -3,9 +3,9 @@
 
 - Recent Grad - CS @ UCLA 
 
-- I’m currently working on [PremSight](https://premsight.vercel.app/)
+- I’m currently working on [PremSight](https://premsight.vercel.app/) and SavorIQ
 
-- How to reach me **tonysjeon@gmail.com**
+- Can reach me at **tonysjeon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
