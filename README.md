@@ -8,29 +8,33 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🎓 Recent **Computer Science graduate from UCLA**
-* 🛠️ I enjoy building **full-stack products end-to-end**, from backend architecture and data pipelines to polished user experiences
-* 🤖 Especially interested in **AI-powered applications, recommendation systems, real-time systems, and intelligent consumer products**
-* ⚽ I also love applying software and data to **sports**, especially soccer and tennis
-* 📫 Reach me at **[tonysjeon@gmail.com](mailto:tonysjeon@gmail.com)**
+* Recent **Computer Science graduate from UCLA**
+* I enjoy building **full-stack products end-to-end**, from backend architecture and data pipelines to polished user experiences
+* Especially interested in **AI-powered applications, recommendation systems, real-time systems, and intelligent consumer products**
+* I also love applying software and data to **sports**, especially soccer and tennis
+* Reach me at **[tonysjeon@gmail.com](mailto:tonysjeon@gmail.com)**
 
-### 🚀 What I'm Building
+---
 
-#### ⚽ PremSight
+## 🚀 What I'm Building
+
+### ⚽ PremSight
 
 A Premier League platform I'm building around match data, player analytics, and predictive modeling.
 
 The goal is to bring together the parts of football apps I use most — live data, deeper analytics, and eventually real-time probability models — into one focused Premier League experience.
 
-#### 🍽️ SavorIQ
+### 🍽️ SavorIQ
 
 An AI-powered nutrition app built with **React Native, TypeScript, Firebase, and Gemini**.
 
 SavorIQ combines image-based food logging, barcode scanning, macro tracking, and a personalized meal assistant that recommends meals and recipes using a user's eating history and dietary preferences.
 
-### 🎾 Other Things I've Built
+---
+
+## 🧩 Other Things I've Built
 
 At **UCLA Tennis Consulting**, I helped build software and analytics used directly by UCLA Men's Tennis coaches and players.
 
@@ -40,7 +44,9 @@ At **UCLA Tennis Consulting**, I helped build software and analytics used direct
 
 I also worked as an **AI Research Assistant at UCLA's Elegant Mind Lab**, where I built real-time systems for surgical robotics using **C++, Python, computer vision, LLM inference, and 3D reconstruction**.
 
-### 🔗 Connect With Me
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tony-jeon-80a390274/" target="_blank">
@@ -52,7 +58,9 @@ I also worked as an **AI Research Assistant at UCLA's Elegant Mind Lab**, where 
   </a>
 </p>
 
-### 🧰 Languages & Tools
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
 
