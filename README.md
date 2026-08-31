@@ -20,7 +20,7 @@
 
 A Premier League platform I'm building around match data, player analytics, and predictive modeling.
 
-The goal is to bring together the parts of football apps I use most — live data, deeper analytics, and eventually real-time probability models — into one focused Premier League experience.
+The goal is to bring together the parts of football apps I use most: live data, deeper analytics, and eventually real-time probability models, all in one focused Premier League experience.
 
 ### 🍽️ SavorIQ
 
@@ -32,13 +32,9 @@ SavorIQ combines image-based food logging, barcode scanning, macro tracking, and
 
 ## 🧩 Other Things I've Built
 
-At **UCLA Tennis Consulting**, I helped build software and analytics used directly by UCLA Men's Tennis coaches and players.
+* **UCLA Tennis Consulting:** Built analytics and software tools used by UCLA Men’s Tennis coaches and players, including a **Next.js + Firebase match platform**, **20+ D3.js visualizations**, and a **Python + Playwright recruiting pipeline**.
 
-* Built a **Next.js + Firebase film-review and analytics platform** spanning 100+ matches
-* Created **20+ D3.js visualizations** for shot placement, serve patterns, and matchup analysis
-* Built a **Python + Playwright recruiting data pipeline** for California high-school prospects
-
-I also worked as an **AI Research Assistant at UCLA's Elegant Mind Lab**, where I built real-time systems for surgical robotics using **C++, Python, computer vision, LLM inference, and 3D reconstruction**.
+* **TERESA, UCLA Elegant Mind Lab:** Built a real-time surgical robotics system using **C++, Python, computer vision, LLM inference, and 3D reconstruction**.
 
 ---
 
