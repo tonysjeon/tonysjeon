@@ -2,10 +2,6 @@
 
 <h3 align="center">Software Engineer building products at the intersection of full-stack, AI, and data.</h3>
 
-<p align="center">
-  UCLA Computer Science graduate who loves turning ideas into products people can actually use.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
