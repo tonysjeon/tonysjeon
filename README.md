@@ -14,7 +14,6 @@
 * 🛠️ I enjoy building **full-stack products end-to-end**, from backend architecture and data pipelines to polished user experiences
 * 🤖 Especially interested in **AI-powered applications, recommendation systems, real-time systems, and intelligent consumer products**
 * ⚽ I also love applying software and data to **sports**, especially soccer and tennis
-* 🚀 Currently building **[PremSight](https://premsight.vercel.app/)** and **SavorIQ**
 * 📫 Reach me at **[tonysjeon@gmail.com](mailto:tonysjeon@gmail.com)**
 
 ### 🚀 What I'm Building
@@ -30,14 +29,6 @@ The goal is to bring together the parts of football apps I use most — live dat
 An AI-powered nutrition app built with **React Native, TypeScript, Firebase, and Gemini**.
 
 SavorIQ combines image-based food logging, barcode scanning, macro tracking, and a personalized meal assistant that recommends meals and recipes using a user's eating history and dietary preferences.
-
-#### 🧠 Quellect
-
-A personalized recommendation and discovery system built around the content people save but rarely revisit.
-
-I built a hybrid retrieval system using **PostgreSQL + pgvector** and a content-theme graph, along with a **LangChain + AWS Bedrock RAG agent** that lets users ask questions about their own saved content.
-
-Quellect has processed **20K+ saved items across 200+ early users**.
 
 ### 🎾 Other Things I've Built
 
