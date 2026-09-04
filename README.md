@@ -16,17 +16,17 @@
 
 ## 🚀 What I'm Building
 
+### 🧠 Quellect
+
+A content discovery platform built around using what you save across different platforms to power better recommendations.
+
+Instead of relying on the isolated recommendation algorithm of a single platform, Quellect brings saved content from across **Instagram, TikTok, YouTube, and other sources** into one library. It uses semantic embeddings and a content-theme graph to cluster saves across platforms into shared themes, build a more holistic picture of what a user is interested in, and recommend new content based on those interests regardless of where the original content came from.
+
 ### 💻 Cue
 
 A live mock technical interviewer built for practicing coding problems directly on **NeetCode**.
 
 Cue runs as a browser extension that follows along while you solve a problem, listens to your verbal reasoning, and acts like an interviewer throughout the session. It can ask follow-up questions, respond to questions in real time, track your code and solution progress, and generate structured feedback afterward around correctness, communication, problem-solving, and areas to improve.
-
-### ⚽ PremSight
-
-A Premier League platform I'm building around match data, player analytics, and predictive modeling.
-
-The goal is to bring together the parts of football apps I use most: live data, deeper analytics, and eventually real-time probability models, all in one focused Premier League experience.
 
 ---
 
@@ -34,9 +34,9 @@ The goal is to bring together the parts of football apps I use most: live data, 
 
 * **SavorIQ:** Built an AI-powered nutrition app with **React Native, TypeScript, Firebase, and Gemini**, combining image-based food logging, barcode scanning, macro tracking, and a personalized meal assistant based on eating history and dietary preferences.
 
-* **UCLA Tennis Consulting:** Built analytics and software tools used by UCLA Men’s Tennis coaches and players, including a **Next.js + Firebase match platform**, **20+ D3.js visualizations**, and a **Python + Playwright recruiting pipeline**.
+* **PremSight:** Built a Premier League platform around match data, player analytics, and predictive modeling, with a focus on combining live football data, deeper player insights, and eventually real-time probability models into one focused experience.
 
-* **TERESA, UCLA Elegant Mind Lab:** Built a real-time surgical robotics system using **C++, Python, computer vision, LLM inference, and 3D reconstruction**.
+* **UCLA Tennis Consulting:** Built analytics and software tools used by UCLA Men’s Tennis coaches and players, including a **Next.js + Firebase match platform**, **20+ D3.js visualizations**, and a **Python + Playwright recruiting pipeline**.
 
 ---
 
