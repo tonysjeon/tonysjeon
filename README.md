@@ -16,21 +16,23 @@
 
 ## 🚀 What I'm Building
 
+### 💻 Cue
+
+A live mock technical interviewer built for practicing coding problems directly on **NeetCode**.
+
+Cue runs as a browser extension that follows along while you solve a problem, listens to your verbal reasoning, and acts like an interviewer throughout the session. It can ask follow-up questions, respond to questions in real time, track your code and solution progress, and generate structured feedback afterward around correctness, communication, problem-solving, and areas to improve.
+
 ### ⚽ PremSight
 
 A Premier League platform I'm building around match data, player analytics, and predictive modeling.
 
 The goal is to bring together the parts of football apps I use most: live data, deeper analytics, and eventually real-time probability models, all in one focused Premier League experience.
 
-### 🍽️ SavorIQ
-
-An AI-powered nutrition app built with **React Native, TypeScript, Firebase, and Gemini**.
-
-SavorIQ combines image-based food logging, barcode scanning, macro tracking, and a personalized meal assistant that recommends meals and recipes using a user's eating history and dietary preferences.
-
 ---
 
 ## 🧩 Other Things I've Built
+
+* **SavorIQ:** Built an AI-powered nutrition app with **React Native, TypeScript, Firebase, and Gemini**, combining image-based food logging, barcode scanning, macro tracking, and a personalized meal assistant based on eating history and dietary preferences.
 
 * **UCLA Tennis Consulting:** Built analytics and software tools used by UCLA Men’s Tennis coaches and players, including a **Next.js + Firebase match platform**, **20+ D3.js visualizations**, and a **Python + Playwright recruiting pipeline**.
 
